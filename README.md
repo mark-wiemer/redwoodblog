@@ -1,4 +1,10 @@
-# README
+# redwoodblog by mark-wiemer
+
+## Archive notice
+
+Heyo, this was me following the RedwoodJS docs back around v1 or v2 or something. I'm going to start over with RedwoodJS 8 now, feel free to check out hello-redwood for info :)
+
+## Original readme
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
